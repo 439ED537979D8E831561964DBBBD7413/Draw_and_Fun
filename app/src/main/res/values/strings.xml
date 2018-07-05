@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Draw &amp; Fun</string>
+    <!--<string name="admobInterstetialunitID">ca-app-pub-1629039137396721/1932165406</string>--> <!--ACTUAL INTERSTETIAL ADMOB UNIT-->
+    <!--<string name="admobInterstetialunitID">ca-app-pub-3940256099942544/1033173712</string>--> <!--DUMMY INTERSTETIAL ADMOB UNIT-->
+    <!--<string name="admobunitID">ca-app-pub-1629039137396721/5320267143</string>  &lt;!&ndash;ACTUAL ADMOB UNIT&ndash;&gt;-->
+    <string name="admobunitID">ca-app-pub-3940256099942544/6300978111</string>   <!--DUMMY ADMOB UNIT-->
+    <string name="admobappID">ca-app-pub-1629039137396721~5703410526</string>
+    <string name="youAreNotUpdatedTitle">Update Available</string>
+    <string name="youAreNotUpdatedMessage">A newer version of DRAW &amp; FUN APP is available. Please update to version</string>
+    <string name="youAreNotUpdatedMessage1"> now</string>
+    <string name="update">Update</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#d6481a</color>
+    <color name="colorAccent">#009688</color>
+    <color name="menuBg">#1F5982</color>
+    <color name="black">#000</color>
+    <color name="lightgrey">#DCDCDC</color>
+    <color name="DialogDark">#263238</color>
+
+    <color name="DrawerTransaprentBG">#30000000</color>
+    <color name="DrawerTransaprentBG_30">#30000000</color>
+    <color name="DrawerTransaprentBG_40">#40000000</color>
+    <color name="DrawerTransaprentBG_50">#50000000</color>
+    <color name="DrawerTransaprentBG_60">#60000000</color>
+    <color name="DrawerTransaprentBG_80">#80000000</color>
+</resources>
